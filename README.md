@@ -4,8 +4,8 @@
 **colzela/colzela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a second year M.S. student @ UC San Diego.
-- 🌱 I’m actively looking for 26Fall PhD in US. Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion!
+- 🔭 I graduated my M.S. @ UC San Diego on June 2026!
+- 🌱 I’m actively looking for 27Fall PhD in US. Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion!
 - 👯 Here is my Personal Website: [haokun-zhao](https://haokun-zhao.github.io)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
 - 😄 Pronouns: He/Him
