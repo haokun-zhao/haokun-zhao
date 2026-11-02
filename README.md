@@ -5,6 +5,7 @@
 -->
 
 - 🔭 I graduated my M.S. @ UC San Diego on June 2026!
+- 🎯 My research centers on generative models for small molecular and scientific discovery, with a particular focus on guided discrete diffusion. I am also interested in LLM-based agents for scientific workflows and in representation learning for health data.
 - 🌱 I’m actively looking for 27Fall PhD in US. Please feel free to reach out to me via email if you believe I am a good fit for your research team. I welcome the opportunity for further discussion!
 - 👯 Here is my Personal Website: [haokun-zhao](https://haokun-zhao.github.io)
 - 📫 How to reach me: haz118@ucsd.edu or haokunzhao123@gmail.com
